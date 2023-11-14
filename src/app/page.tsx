@@ -12,6 +12,18 @@ export default function Home() {
                     address: '0x8b532a531aB6962bcA2797425d80fcFf8e440f07',
                     chainKey: 'bsc',
                 },
+                {
+                    address: '0x39b19f5a4BB4934BAeB58bcbB4443f5d66D7EC92',
+                    chainKey: 'avalanche',
+                },
+                {
+                    address: '0xe021fA7D449e67b5ED01CC8F4Fd389f42ffFCaFD',
+                    chainKey: 'arbitrum',
+                },
+                {
+                    address: '0x68C5bd7917912325B88C5E4393e012546B9e1cf3',
+                    chainKey: 'optimism',
+                },
             ]});
             // bootstrapWidget({color: 3, theme:themes.light, isTestnet: false, bridgeRecolorConfig: [
             //         {
