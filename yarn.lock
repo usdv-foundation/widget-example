@@ -243,10 +243,10 @@
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
 
-"@usdv/usdv-widget@^0.9.5":
-  version "0.9.5"
-  resolved "https://registry.yarnpkg.com/@usdv/usdv-widget/-/usdv-widget-0.9.5.tgz#14f988ffc4d80aff5b104d6a0fce4cf11cdf6b73"
-  integrity sha512-Bh6J2cqdLXiQCtiJYgQBUagqZE9lY4wEjvQl2uRcsMlMnmynG+sB1XFgulrY1tPgkkRJ64nF0ZEWlo7N8wgyNQ==
+"@usdv/usdv-widget@^0.9.6":
+  version "0.9.7"
+  resolved "https://registry.yarnpkg.com/@usdv/usdv-widget/-/usdv-widget-0.9.7.tgz#7bb5ac00722ed3ad4f0e513b6e33d91aabe0c850"
+  integrity sha512-x6cTFQrH0u5MDUlZRT2IvD9/xYjGDpxyv/Lvp8kGRQ2IbjvdTrkbDCv56fzUpWK9718DSkIErclKnOnuhtoxKw==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"
