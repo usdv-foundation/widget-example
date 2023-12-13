@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@usdv/usdv-widget": "^0.9.6",
+    "@usdv/usdv-widget": "^0.9.8",
     "next": "13.5.6",
     "react": "^18",
     "react-dom": "^18"
